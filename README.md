@@ -1,6 +1,6 @@
 Hi! I'm a microcontroller enthusiast who loves working with stm32 and esp32 chips.
 
-I enjoy designing and soldering PCBs, and I use Altium Designer, Kicad, and JLCEDA as my main EDA tools.
+I enjoy designing and soldering PCBs, and I use Altium Designer, Kicad, and EasyEDA as my main EDA tools.
 
 I have a shelf full of electronic components, which are really hard to organize...
 
