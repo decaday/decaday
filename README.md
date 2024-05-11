@@ -10,4 +10,4 @@ I'm currently learning Rust and Godot, as well as improving my English skills.
 
 my blog(Chinese): https://decaday.github.io/blog/
 
-my Email: theDecaday@outlook.com
+my Email: myDecaday@outlook.com
