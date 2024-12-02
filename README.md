@@ -1,4 +1,4 @@
-Hi! I'm a microcontroller enthusiast who loves working with stm32 and esp32 chips.
+Hi! I'm a microcontroller enthusiast who loves working with stm32, py32 and esp32 chips.
 
 I enjoy designing and soldering PCBs, and I use Altium Designer, Kicad, and EasyEDA as my main EDA tools.
 
