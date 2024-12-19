@@ -4,6 +4,6 @@ I enjoy designing and soldering PCBs, and I use Altium Designer, Kicad, and Easy
 
 I have a shelf full of electronic components, which are really hard to organize...
 
-my blog(in Chinese): https://decaday.github.io/blog/
+My blog(in Chinese): https://decaday.github.io/blog/
 
-my Email: myDecaday@outlook.com
+My Email: myDecaday@outlook.com
